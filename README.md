@@ -1,17 +1,6 @@
-<style> 
-div {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-</style>
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF3D3D&width=435&lines=Oii+eu+sou+o+Kendy!;Estudante+de+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
-<div style="  display: flex;
-  justify-content: center;
-  align-items: center;"><br>
+<div style="  display: inline-block><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
