@@ -11,6 +11,7 @@
   
   ##
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notknd&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notknd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <div> 
 
   <a href="https://instagram.com/n0tknd" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
