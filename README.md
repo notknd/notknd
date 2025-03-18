@@ -1,3 +1,12 @@
+<style> 
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+</style>
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF3D3D&width=435&lines=Oii+eu+sou+o+Kendy!;Estudante+de+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 <div style="display: inline_block"><br>
