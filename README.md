@@ -1,5 +1,5 @@
-## Oiii eu sou o Kendy, estudante de Ciências da Computação!
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Oiii+eu+sou+o+Kendy;Sou+um+estudante+de+Ciências+da+Computação)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&pause=1000&width=435&lines=Oiii+eu+sou+o+Kendy!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&pause=1000&width=435&lines=Estudante+de+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o!)](https://git.io/typing-svg)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
