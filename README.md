@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=de3434"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&color=de3434"/>
 <div align="center", justify-content="center">
   <b>橋本 けんじ</b>
   
@@ -37,4 +37,4 @@
   
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=de3434&height=200&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=de3434&height=125&section=footer"/>
