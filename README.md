@@ -1,10 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=de3434"/>
-
-
 <div align="center", justify-content="center">
-
 橋本 けんじ
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=de3434&width=435&lines=Oii+eu+sou+o+Kendy!;Estudante+de+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 </div>
