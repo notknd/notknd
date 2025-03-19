@@ -3,7 +3,7 @@
   
   橋本 けんじ
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DE3434&center=true&width=435&lines=Hello!+I'm+Kendy;Sou+um+estudante+de+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DE3434&center=true&width=435&lines=Hello%2C++i'm+Kendy!;I+am+a+Computer+Science+student)](https://git.io/typing-svg)
   
 </div>
 
