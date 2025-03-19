@@ -20,9 +20,11 @@
 
 <div align="center" style="display: inline_block">
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notknd&count_private=true&show_icons=true&theme=dracula)
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=notknd&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=notknd&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=notknd&theme=dracula&utcOffset=8) |
+| :-: | :-: | :-: |
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notknd&show_icons=true&theme=dracula&layout=compact)
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notknd&theme=dracula) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=notknd&theme=dracula)](https://git.io/streak-stats) |
+| :-: | :-: |
 
 </div>
 
