@@ -1,5 +1,7 @@
 <div align="center", justify-content="center">
 
+橋本 けんじ
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF3D3D&width=435&lines=Oii+eu+sou+o+Kendy!;Estudante+de+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 </div>
