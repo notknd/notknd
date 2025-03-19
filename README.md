@@ -18,7 +18,7 @@
   
   ##
 
-<div align="center" style="display: inline_block">
+<div align="center" style="display: flex">
 
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=notknd&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=notknd&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=notknd&theme=dracula&utcOffset=8) |
 | :-: | :-: | :-: |
