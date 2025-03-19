@@ -20,10 +20,10 @@
 
 <div align="center" style="display: flex">
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=notknd&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=notknd&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=notknd&theme=dracula&utcOffset=8) |
-| :-: | :-: | :-: |
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=notknd&theme=dracula)  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=notknd&theme=dracula)  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=notknd&theme=dracula&utcOffset=8) 
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notknd&theme=dracula)
+
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notknd&theme=dracula)
 
 </div>
 
