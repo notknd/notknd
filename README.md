@@ -32,9 +32,9 @@
 
 <div align="center" style="display: flex"> 
 
-  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/n0tknd)
+  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=962fbf )](https://www.instagram.com/n0tknd)
   [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kendyhashimoto@hotmail.com)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kendy-hashimoto-944439304/) 
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/kendy-hashimoto-944439304/) 
   
 </div>
 
