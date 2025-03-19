@@ -23,7 +23,7 @@
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=notknd&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=notknd&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=notknd&theme=dracula&utcOffset=8) |
 | :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notknd&theme=dracula) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=notknd&theme=dracula)](https://git.io/streak-stats) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notknd&theme=dracula) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=notknd&theme=dracula)]|
 | :-: | :-: |
 
 </div>
