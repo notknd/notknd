@@ -18,7 +18,7 @@
   
   ##
 
-<div display ="flex", felx-grow="1", align="center", justify-content="center">
+<div align="center" style="display: inline_block">
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notknd&count_private=true&show_icons=true&theme=dracula)
 
