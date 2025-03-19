@@ -24,7 +24,7 @@
   
   ##
 
-<div align="center", justify-content="center">
+<div display ="flex"align="center", justify-content="center">
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notknd&count_private=true&show_icons=true&theme=dracula)
 
