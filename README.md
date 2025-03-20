@@ -3,7 +3,9 @@
   <b>橋本 けんじ</b>
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DE3434&center=true&width=435&lines=Hello%2C++i'm+Kendy!;I+am+a+Computer+Science+student)](https://git.io/typing-svg)
+  
 </div>
+
 <div align="center" style="display: inline_block"><br>
   
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
