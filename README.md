@@ -6,7 +6,7 @@
   
 </div>
 
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: flex"><br>
   
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
